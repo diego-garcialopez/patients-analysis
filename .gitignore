@@ -1,0 +1,3 @@
+# Data files to be ignored by git
+data/
+big-data.zip
